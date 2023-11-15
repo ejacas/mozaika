@@ -57,7 +57,7 @@ header {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-image: url("/imgs/header.jpeg");
+    background-image: url("./imgs/header.jpeg");
     background-position: center;
     background-size: cover;
     height: 300px;
